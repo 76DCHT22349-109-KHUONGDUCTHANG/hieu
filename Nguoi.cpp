@@ -1,4 +1,5 @@
 #include "Nguoi.h"
+using namespace std;
 
 Nguoi::Nguoi(string HoTen, int NamSinh)
 {
